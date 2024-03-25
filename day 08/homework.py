@@ -1,4 +1,4 @@
-user_age = input("what is your age?:      ")
-travel_time = input("how many time you wonna travel?:     ")
-
-print ("your time to travel will be" , int(user_age) + int(travel_time))
+user_age = input()
+parent_age = input()
+print(user_age < parent_age)
+print(user_age > parent_age)
